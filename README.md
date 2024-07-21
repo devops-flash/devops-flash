@@ -25,11 +25,14 @@ I aim to create a meaningful impact by leveraging my infrastructure experience a
 
 🔗 #IT #ITInfrastructure #FrontEndDevelopment #DevOps #ProfessionalGrowth #Wordpress #Firewall #SDWAN #Cloud #Azure #AWS #SharePoint #Networks #Support #Analyst #Infrastructure #IT #AnalysisDevelopment #BackEnd #Hypervisor #Virtualization #VM #FTTH #Office365 # PowerBI #BackEnd #SQL #Python
 #
-![devops-flash's GitHub stats](https://github-readme-stats.vercel.app/api?username=devops-flash&show_icons=true&theme=onedark)  
-![devops-flash's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devops-flash&theme=blue-green)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=devops-flash&theme=onedark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devops-flash&layout=compact&langs_count=8&card_width=320&theme=onedark" />
+</a>
+
 #
-#
-# Some of the technologies I work on:
 # Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -46,3 +49,4 @@ I aim to create a meaningful impact by leveraging my infrastructure experience a
 ![GNU](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 # Social network
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaiasants/)
+
