@@ -93,7 +93,7 @@ My goal is to leverage my infrastructure expertise and software development skil
 
 ## 🌎 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Isaias-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaias-devops/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Isaias-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaiasants-analistadeinfraestrutura/)
 
 ---
 
