@@ -1,52 +1,100 @@
-### Hello, my name is Isaias, welcome to my repository on Github!😎
-# About me:
-With more than 5 years of solid experience in IT infrastructure management and optimization, I am currently immersed in the study of back-end development, seeking to improve my skills in creating robust and scalable systems.
+# 👋 Hello, I'm Isaias
 
-🔧 IT Infrastructure:
-Over the years, I have played a key role in implementing and maintaining efficient and secure IT infrastructures. My expertise ranges from server administration to the implementation of information security strategies, providing technologically robust environments.
+## Infrastructure Analyst | Back-End Developer | Future DevOps Engineer
 
-🧰 Studying Back-End:
-Currently, I am focused on continually learning back-end languages ​​and frameworks, including Python, Node.js, and relational and non-relational databases. This effort aims to improve my ability to develop scalable and efficient systems.
+With over 7 years of experience in IT Infrastructure, Systems Administration, and Enterprise Support, I specialize in building reliable environments, automating processes, and integrating business systems.
 
-🚀 Towards DevOps:
-With an eye towards the future, my goal is to consolidate my experience in infrastructure and back-end to pave the path towards a career in DevOps. I'm excited to integrate my technical knowledge to drive efficient collaboration between development and operations.
+Currently, I am expanding my expertise in Back-End Development and Cloud Technologies, combining infrastructure knowledge with software engineering practices to create scalable, secure, and efficient solutions.
 
-💼 Main Skills:
+My professional journey bridges the gap between Operations and Development, with a strong focus on automation, systems integration, cloud computing, and DevOps culture.
 
-IT infrastructure
-Server Administration
-Information security
-Back-End Development (in progress)
-Systems integration
-Optimization Strategies
+---
 
-💡 Objective:
-I aim to create a meaningful impact by leveraging my infrastructure experience and backend learning journey to drive operational efficiency as a DevOps professional.
+## 🚀 What I Do
 
-🔗 #IT #ITInfrastructure #FrontEndDevelopment #DevOps #ProfessionalGrowth #Wordpress #Firewall #SDWAN #Cloud #Azure #AWS #SharePoint #Networks #Support #Analyst #Infrastructure #IT #AnalysisDevelopment #BackEnd #Hypervisor #Virtualization #VM #FTTH #Office365 # PowerBI #BackEnd #SQL #Python
-#
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=devops-flash&theme=onedark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devops-flash&layout=compact&langs_count=8&card_width=320&theme=onedark" />
-</a>
+- IT Infrastructure Management
+- Server Administration (Windows & Linux)
+- Network and Security Solutions
+- Cloud Computing (Azure & AWS)
+- Systems Integration
+- Database Administration
+- Process Automation
+- Back-End Development
+- DevOps Practices
 
-#
-# Frontend
+---
+
+## 💼 Professional Experience
+
+✔ Infrastructure Administration and Support
+
+✔ Microsoft Ecosystem (Active Directory, Office 365, SharePoint)
+
+✔ Firewalls, SD-WAN, VPNs and Network Management
+
+✔ Virtualization and Hypervisors
+
+✔ SQL Server Administration and Optimization
+
+✔ SAP Business One Integrations
+
+✔ Automation using Python and PowerShell
+
+✔ Cloud Services and Hybrid Environments
+
+---
+
+## 🎯 Career Objective
+
+My goal is to leverage my infrastructure expertise and software development skills to become a highly effective DevOps Engineer, helping organizations accelerate delivery, improve reliability, and optimize operational efficiency through automation and cloud technologies.
+
+---
+
+## 🛠 Tech Stack
+
+### Front-End
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-# Backend
-![Pyhon](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![SqlLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SqlServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-# Others:
-![WindowsCMD](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
-![PwerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![GNU](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
-# Social network
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaias-devops/)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+### Back-End
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Databases
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### Cloud & DevOps
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Automation & Scripting
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<a href="https://github.com/devops-flash">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devops-flash&show_icons=true&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/devops-flash">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devops-flash&layout=compact&theme=tokyonight" />
+</a>
+
+---
+
+## 🌎 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Isaias-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaias-devops/)
+
+---
+
+> "Continuous learning, automation, and innovation drive my professional journey."
